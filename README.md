@@ -1115,7 +1115,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [zerolog](https://github.com/rs/zerolog) - Zero-allocation JSON logger.
 * [zkits-logger](https://github.com/edoger/zkits-logger) - A powerful zero-dependency JSON logger.
 
-## Machine Learning
+## Machine Learning  (Automatic Github Forking Device -- AGFD)
 
 *Libraries for Machine Learning.*
 
